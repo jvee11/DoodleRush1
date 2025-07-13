@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Arial', sans-serif;
-    background-image: url('/public/background.png');
+    background-image: url('C:\Users\jayendra vyas\Desktop\scribble\skribble-clone\frontend\public\background.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
@@ -34,7 +34,7 @@ body {
     justify-content: center;
     margin-bottom: 20px;
     align-items: center;
-    margin-top: -70px;
+    margin-top: 0px;
     -webkit-text-stroke: 2px black; /* Width and color of the stroke */
   }
   

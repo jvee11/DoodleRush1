@@ -39,10 +39,12 @@ if (process.env.NODE_ENV === "production") {
 //--------DEPLOYMENT---------
 
 
-let port_no = process.env.PORT;
+let port_no = process.env.PORT || 3001;
+
 
 server.listen(port_no, () => {
-  console.log(`Example app listening on port 3001`);
+  console.log(`Example app listening on port ${port_no}`);
+
 });
 
 

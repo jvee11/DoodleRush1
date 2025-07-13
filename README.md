@@ -1,4 +1,4 @@
-# Skribblay.you
+# DoodleRush.you
 
 Welcome to **Skribblay**, a fun and engaging online multiplayer drawing and guessing game inspired by Skribbl.io. This project aims to replicate the core functionalities of the original game and also adding some new features which are lacking in the skribble.io, providing an entertaining platform where players can showcase their drawing skills and guess the drawings of others.
 
@@ -121,4 +121,4 @@ If you have any questions or suggestions, feel free to reach out to the project 
 - GitHub: [ShashwatAgg0411](https://github.com/ShashwatAgg0411)
 ---
 
-Thank you for visiting **Skribblay.you**! We hope you enjoy playing and contributing to the project.
+Thank you for visiting **DoodleRush.you**! We hope you enjoy playing and contributing to the project.

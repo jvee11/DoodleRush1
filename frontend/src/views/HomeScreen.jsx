@@ -65,7 +65,7 @@ const HomeScreen = () => {
   return (
     <div>
       <header className="app-header">
-        <h1>skribblay.you</h1>
+        <h1>DoodleRush.you</h1>
       </header>
       <div className="main-container">
         <div className="input-container">
