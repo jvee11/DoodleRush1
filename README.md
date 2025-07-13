@@ -1,16 +1,7 @@
 # DoodleRush.you
 
-Welcome to **Skribblay**, a fun and engaging online multiplayer drawing and guessing game inspired by Skribbl.io. This project aims to replicate the core functionalities of the original game and also adding some new features which are lacking in the skribble.io, providing an entertaining platform where players can showcase their drawing skills and guess the drawings of others.
+Welcome to **DoodleRush**, a fun and engaging online multiplayer drawing and guessing game inspired by Skribbl.io. This project aims to replicate the core functionalities of the original game and also adding some new features which are lacking in the skribble.io, providing an entertaining platform where players can showcase their drawing skills and guess the drawings of others.
 
-## Table of Contents
-
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
@@ -21,16 +12,6 @@ Welcome to **Skribblay**, a fun and engaging online multiplayer drawing and gues
 - User-friendly and intuitive interface
 - Leaderboard to track player scores
 
-## Screenshots
-
-![Game Lobby](frontend/public/homescreen.png)
-*Game Lobby*
-
-![Drawing Interface](frontend/public/drawscreen.png)
-*Drawing Interface*
-
-![Guessing Phase](frontend/public/palyscreen.png)
-*Guessing Phase*
 
 ## Installation
 
@@ -111,14 +92,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or suggestions, feel free to reach out to the project maintainers:
 
-- **SANOJ** - [panditsanoj124@gmail.com](mailto:panditsanoj124@gmail.com)
-- GitHub: [techysanoj](https://github.com/techysanoj)
-- **Shashwat Bindal** - shashwat.bindal2002@gmail.com
-- GitHub: [shashwat282002](https://github.com/shashwat282002)
-- **Priyanshu Bhardwaj** - priyanshubhardwaj70@gmail.com
-- GitHub: [PriyanshuA1507](https://github.com/PriyanshuA1507)
-- **Shashwat Aggarwal** - shashwatagg04@gmail.com
-- GitHub: [ShashwatAgg0411](https://github.com/ShashwatAgg0411)
----
+
 
 Thank you for visiting **DoodleRush.you**! We hope you enjoy playing and contributing to the project.
