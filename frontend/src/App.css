@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Arial', sans-serif;
-    background-image: url('C:\Users\jayendra vyas\Desktop\scribble\skribble-clone\frontend\public\background.jpg');
+    background-image: url('\public\background.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
